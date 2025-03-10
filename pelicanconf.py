@@ -1,6 +1,6 @@
 AUTHOR = 'Evgenii Kachkin'
 SITENAME = 'BrainLab'
-SITEURL = ""
+SITEURL = 'https://puerhmaster.github.io/BrainLab'
 OUTPUT_PATH = 'docs/'
 
 PATH = "content"
